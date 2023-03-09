@@ -45,6 +45,25 @@ $ yarn run start:dev
 $ yarn run start:prod
 ```
 
+## User credentials
+
+```bash
+# API-URL
+$ http://localhost:5000
+
+# Admin
+$ userName: reyad123
+$ password: 123456
+
+# Manager
+$ userName: rijon321
+$ password: 852147
+
+# Staff
+$ userName: piash23
+$ password: 654321
+```
+
 ## Test
 
 ```bash
@@ -64,9 +83,9 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ## Stay in touch
 
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+-   Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
+-   Website - [https://nestjs.com](https://nestjs.com/)
+-   Twitter - [@nestframework](https://twitter.com/nestframework)
 
 ## License
 

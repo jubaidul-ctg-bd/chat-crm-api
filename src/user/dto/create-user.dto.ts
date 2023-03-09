@@ -16,5 +16,5 @@ export class CreateUserDto {
 
     @IsNotEmpty()
     @IsString()
-    UserRole: UserRole
+    userRole: UserRole
 }
